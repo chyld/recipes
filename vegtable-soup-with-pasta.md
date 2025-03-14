@@ -32,9 +32,8 @@
 | 3 | Cook for approximately 10 minutes, testing for desired doneness. |
 | 4 | Drain pasta when cooked. |
 
-### Serving
+### Final
 | Step | Instructions |
 |------|-------------|
 | 1 | Combine vegetable soup with cooked pasta and serve. |
-
-*Note: Adjust seasonings to taste.*
+| 2 | Add Salt, Garic, Pepper, Onion Powder, etc to final mixture. |
